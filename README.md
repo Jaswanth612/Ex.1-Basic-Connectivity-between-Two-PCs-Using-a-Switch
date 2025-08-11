@@ -14,10 +14,10 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
 
 
 <img width="1918" height="1071" alt="ex 1 img" src="https://github.com/user-attachments/assets/3768cd17-9538-43af-9f01-e8080dc0215e" />
+
 ________________________________________
 # IP Addressing Table (if applicable)
 Device Name	Interface	IP Address	Subnet Mask
